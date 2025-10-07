@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -21,7 +20,7 @@
             background-color: white;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
-        /* Banner / Header */
+        
         #header {
             position: relative;
         }
@@ -39,7 +38,7 @@
             padding: 10px 20px;
             border-radius: 5px;
         }
-        /* Top navigation menu */
+        
         #menu {
             background-color: #333;
             text-align: center;
@@ -61,11 +60,11 @@
         #menu ul li a:hover {
             background-color: #555;
         }
-        /* Main body area */
+      
         #body-content {
             display: flex;
         }
-        /* Sidebar / left menu */
+       
         #left-content {
             width: 240px;
             background-color: #f0f0f0;
@@ -85,7 +84,7 @@
         #left-content ul li a:hover {
             text-decoration: underline;
         }
-        /* Main article / content area */
+        
         #center-content {
             flex: 1;
             padding: 30px;
@@ -148,3 +147,4 @@
             </div>
 </body>
 </html>
+

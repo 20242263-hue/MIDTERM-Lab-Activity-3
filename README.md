@@ -146,5 +146,3 @@
                 <p>A trip can give you a break from school or work stress. Seeing beautiful places and meeting new people can refresh your mind and body. It helps you feel happier, more relaxed, and ready to face challenges when you return.</p>
 
             </div>
-</body>
-</html>
